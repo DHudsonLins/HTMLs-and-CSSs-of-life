@@ -1,0 +1,27 @@
+body{
+    background:url(https://images.unsplash.com/photo-1506894740382-be98b67900b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1384&q=80);
+    background-size:cover;
+    font-family: 'Russo One', sans-serif;
+    color:#bbcff0;
+}
+html{
+    height:100%;
+}
+
+.contain{
+    text-align: center;
+    padding-top: 15%;
+    text-shadow: 0px 4px 3px blue,
+                 0px 8px 13px black,
+                 0px 5px 5px #615a96;
+}
+hr{
+    width: 400px;
+}
+
+h1{
+    font-weight: 600;
+    font-size: 4em;
+}
+.btn-primary {
+    background-color:#3c3b3d;
